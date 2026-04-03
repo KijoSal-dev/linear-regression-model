@@ -118,15 +118,15 @@ Examples include:
 
 * Scatter plots of actual data
 
-![Scatter plots of actual data](./images/age_vs_salary.png)
+![Scatter plots of actual data](scatterplot.png)
 
 * Regression line plots (Simple Linear Regression)
 
-![Regression line plots](./images/age_vs_salary.png)
+![Regression line plots](simple-linear-reg.png)
  
 * Actual vs Predicted plots (Multiple Regression)
 
-![Actual vs Predicted plots](./images/age_vs_salary.png) 
+![Actual vs Predicted plots](multiple-linear-reg.png) 
 
 These visualizations help confirm the model fit and detect prediction deviations.
 
